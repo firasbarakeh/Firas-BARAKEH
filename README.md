@@ -93,7 +93,6 @@ studymate-ai/
 
 ## Limitations
 
-- AI-generated content can contain errors. Students should verify it against their course material.
 - Lesson content is sent to an external AI API, which raises privacy considerations.
 - The AI API needs an internet connection and may have costs and rate limits.
 - The platform is meant to support learning, not replace it.
@@ -105,4 +104,4 @@ studymate-ai/
 - Automatic review recommendations after low quiz scores
 - PDF lesson uploads
 
-## Use of AI tools
+
